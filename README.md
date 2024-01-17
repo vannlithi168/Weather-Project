@@ -46,6 +46,8 @@ The Weather App is a web application built with React.js that allows users to ch
 
 - **Get current location weather:** Click on the location icon to retrieve the weather details for your current location.
 
+- **Hourly Forcast:** Give weather for hourly around 12 hours count from current hour.
+
 - **Weekly Forecast:** Explore the weekly forecast section to get a detailed view of the upcoming weather for the next 7 days.
 
 ## Screenshots

@@ -50,8 +50,7 @@ The Weather App is a web application built with React.js that allows users to ch
 
 ## Screenshots
 
-![Weather App Screenshot](![image](https://github.com/vannlithi168/Weather-Project/assets/137028238/3903d27b-0da7-47b3-bce2-33f0a1adae26))
-
+![60f918ad-8d37-4804-9691-c51d80debcea](https://github.com/vannlithi168/Weather-Project/assets/137028238/84d127df-7e57-43df-929c-5d8877d57fa8)
 
 ## Acknowledgments
 - **Thanks to OpenWeatherMap for providing the weather data.

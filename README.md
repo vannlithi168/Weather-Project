@@ -1,8 +1,61 @@
-# React + Vite
+# Weather App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+The Weather App is a web application built with React.js that allows users to check the current weather and forecast for a given location. It provides information such as temperature, weather conditions, sunrise, sunset, and a weekly forecast.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- **Current Weather:** Get real-time weather information for a specific city.
+- **Weekly Forecast:** View a 7-day weather forecast to plan ahead.
+- **Location Search:** Search for weather information by city name.
+- **Geolocation:** Get weather details for your current location.
+
+## Technologies Used
+
+- React.js
+- OpenWeatherMap API
+- Material-UI for styling
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/weather-app.git
+   ```
+2. Change into the project directory:
+
+    ```bash
+    cd weather-app
+    Install dependencies:
+    ```
+
+    ```bash
+    npm install
+    ```
+  
+    ```bash
+    npm run dwv
+    Open your browser and visit http://localhost:3000 to view the app.
+    ```
+
+## Usage
+
+- **Enter the city name:** In the search bar, input the name of the city for which you want to get the current weather.
+
+- **Get current location weather:** Click on the location icon to retrieve the weather details for your current location.
+
+- **Weekly Forecast:** Explore the weekly forecast section to get a detailed view of the upcoming weather for the next 7 days.
+
+## Screenshots
+
+![Weather App Screenshot](![image](https://github.com/vannlithi168/Weather-Project/assets/137028238/3903d27b-0da7-47b3-bce2-33f0a1adae26))
+
+
+## Acknowledgments
+- **Thanks to OpenWeatherMap for providing the weather data.
+- **Material-UI for React components and styling.
+
+## Author
+[Vannlithi KIM]
